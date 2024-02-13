@@ -1,2 +1,2 @@
 # react-forms
-React Login and SignUp forms concept.
+React.js Login and SignUp Authentication forms
